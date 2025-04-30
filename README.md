@@ -2,13 +2,17 @@
 
 
 <center>
-	<h1 style="color: #00FF00;">Hi there
-	<img src="gifs/heart.gif" alt="heart gif">
-	</h1>
+
+# Hi There ![heart.gif](gifs/heart.gif)
 	
 </center>
 
-<center style="color:#40E0D0;">Welcome to my portfolio in GitHub <img src="imgs/github-icon.png" alt="github-icon.png"></center>
+
+<center>
+
+##### Welcome to my portfolio in github ![github-icon.png](imgs/github-icon.png)
+
+</center>
 
 Here I have some projects I've worked on, some of them are private and you can only check those projects that are public.
 
