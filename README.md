@@ -15,8 +15,10 @@ It should be noted that I am not an expert, but I try to improve every day.
 
 Here I have some projects I've worked on, some of them are private and you can only check those projects that are public.
 
-If you have any suggestions, you can just contact me clicking on any of these links:
+If you have any suggestions, you can just find me clicking on any of these links:
+
 ***
+
 **___This section where are the links is still in progress to finish___**
 
 [![instagram-icon.gif](gifs/instagram-icon.gif)](#)
