@@ -9,13 +9,57 @@ Here I have some projects I've worked, some of them are private, you can only ch
 
 If you have any suggestions, you can just contact to me by here or doing click to any of these links:  
 
-- Meta
-	+ [![Instagram.gif](gifs/instagram-icon.gif)](https:/www.google.com)
-
-	+ ![Facebook]()
-- ![X]()
-- ![threads]()
-- ![Discord]()
-- ![Telegram]()
-- ![]()
-[]()
+<table style="width:100%">
+	<tr>
+		<td>
+			<a href="#">
+				<img src="gifs/instagram-icon.gif" alt="instagram-icon.gif">
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="" alt="facebook-icon.___">
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="" alt="x-icon.___">
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="" alt="threads-icon.___">
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="" alt="discord-icon.___">
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="" alt="telegram-icon.___">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p>Instagram<p>
+		</td>
+		<td>
+			<p>Facebook<p>
+		</td>
+		<td>
+			<p>X<p>
+		</td>
+		<td>
+			<p>Threads<p>
+		</td>
+		<td>
+			<p>Discord<p>
+		</td>
+		<td>
+			<p>Telegram<p>
+		</td>
+	<tr>
+</table>
