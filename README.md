@@ -14,8 +14,8 @@ Here I have some projects I've worked on, some of them are private and you can o
 If you have any suggestions, you can just contact me clicking on any of these links:
 
 [![instagram-icon.gif](gifs/instagram-icon.gif)](#)
-[![facebook-icon.__]()](#)
-[![x-icon.___]()](#)
-[![threads-icon.___]()](#)
-[![discord-icon.___]()](#)
-[![telegram-icon.___]()](#)
+[![facebook-icon.png](imgs/facebook-icon.png)](#)
+[![x-icon.png](imgs/x-icon.png)](#)
+[![threads-icon.png](imgs/threads-icon.png)](#)
+[![discord-icon.gif](gifs/discord-icon.gif)](#)
+[![telegram-icon.png](imgs/telegram-icon.png)](#)
