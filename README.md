@@ -3,7 +3,7 @@
 
 <center>
 
-# Hi There
+# Hi There ![hand.gif](gifs/hand.gif)
 
 ##### Welcome to my GitHub ![github-icon.gif](gifs/github-icon.gif)
 
