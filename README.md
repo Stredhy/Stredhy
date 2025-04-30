@@ -1,16 +1,21 @@
-<h1 style="color: red;"> Hello</h1>
+![Stredhy.gif](gifs/Stredhy.gif)
 
-<!--
-**Stredhy/Stredhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<center><h1 style="color: #00FF00;">Hi there</h1></center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center style="color:#40E0D0;">Welcome to my portfolio in GitHub</center>
+
+Here I have some projects I've worked, some of them are private, you can only check those project that are public.
+
+If you have any suggestions, you can just contact to me by here or doing click to any of these links:  
+
+- Meta
+	+ [![Instagram.gif](gifs/instagram-icon.gif)](https:/www.google.com)
+
+	+ ![Facebook]()
+- ![X]()
+- ![threads]()
+- ![Discord]()
+- ![Telegram]()
+- ![]()
+[]()
