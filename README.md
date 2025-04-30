@@ -3,8 +3,9 @@
 
 <center>
 
-# Hi There ![heart.gif](gifs/heart.gif)
-##### Welcome to my portfolio in github ![github-icon.png](imgs/github-icon.png)
+# Hi There
+
+##### Welcome to my portfolio in github ![github-icon.gif](gifs/github-icon.gif)
 
 </center>
 
