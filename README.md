@@ -21,11 +21,11 @@ If you have any suggestions, you can just find me clicking on any of these links
 
 **___This section where are the links is still in progress to finish___**
 
-[![instagram-icon.gif](gifs/instagram-icon.gif)](#)
-[![facebook-icon.png](imgs/facebook-icon.png)](#)
-[![x-icon.png](imgs/x-icon.png)](#)
-[![threads-icon.png](imgs/threads-icon.png)](#)
-[![discord-icon.gif](gifs/discord-icon.gif)](#)
+[![instagram-icon.gif](gifs/instagram-icon.gif)](#)➖
+[![facebook-icon.png](imgs/facebook-icon.png)](#)➖
+[![x-icon.png](imgs/x-icon.png)](#)➖
+[![threads-icon.png](imgs/threads-icon.png)](#)➖
+[![discord-icon.gif](gifs/discord-icon.gif)](#)➖
 [![telegram-icon.png](imgs/telegram-icon.png)](#)
 
 ***
