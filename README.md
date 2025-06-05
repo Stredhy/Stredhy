@@ -32,7 +32,7 @@ If you have any suggestions, you can just find me clicking on any of these links
 <img src="gifs/load-bar.gif" alt="load-bar.gif">
 [![telegram-icon.gif](gifs/telegram-icon.gif)](#)
 <img src="gifs/load-bar.gif" alt="load-bar.gif">
-[![]()](#)
+[![email-icon.gif](gifs/email-icon.gif)](#)
 
 ***
 
