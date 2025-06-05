@@ -21,11 +21,17 @@ If you have any suggestions, you can just find me clicking on any of these links
 
 **___This section where are the links is still in progress to finish___**
 
-[![instagram-icon.gif](gifs/instagram-icon.gif)](#)➖
-[![facebook-icon.png](imgs/facebook-icon.png)](#)➖
-[![x-icon.png](imgs/x-icon.png)](#)➖
-[![threads-icon.png](imgs/threads-icon.png)](#)➖
-[![discord-icon.gif](gifs/discord-icon.gif)](#)➖
-[![telegram-icon.png](imgs/telegram-icon.png)](#)
+[![instagram-icon.gif](gifs/instagram-icon.gif)](#)
+<img src="gifs/load-bar.gif" alt="load-bar.gif">
+[![facebook-icon.png](gifs/facebook-icon.gif)](#)
+<img src="gifs/load-bar.gif" alt="load-bar.gif">
+[![x-icon.gif](gifs/x-icon.gif)](#)
+<img src="gifs/load-bar.gif" alt="load-bar.gif">
+[![threads-icon.gif](gifs/threads-icon.gif)](#)
+<img src="gifs/load-bar.gif" alt="load-bar.gif">
+[![discord-icon.gif](gifs/discord-icon.gif)](#)
+<img src="gifs/load-bar.gif" alt="load-bar.gif">
+[![telegram-icon.gif](gifs/telegram-icon.gif)](#)
 
 ***
+
