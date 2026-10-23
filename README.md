@@ -3,7 +3,7 @@
 
 # Hi There ![hand.gif](gifs/hand.gif)
 
-### Welcome to my GitHub profile ![github-icon.gif](gifs/github-icon.gif)
+### Welcome to my GitHub Profile ![github-icon.gif](gifs/github-icon.gif)
 
 I'm an amateur programmer who really loves coding in my free time, research, and study just to spend time and learn as much as I can.
 Nowadays, I'm pursuing a bachelor's degree in informatics engineering and learning to code from books and documentation about the language I use and the tools that I need, not only through school. 
